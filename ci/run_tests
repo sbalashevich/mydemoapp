@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-
-set -xe
-mvn -f ./my-application/pom.xml package
-mv ./my-application/target/*.jar ./compiled-files/
-cp ./my-application/manifest.yml ./compiled-files/
-
