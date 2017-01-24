@@ -1,6 +1,6 @@
 ---
 applications:
-- name: mydemoapp
+- name: mydemoapiip
   host: mydemoapp
   domain: hcf.allomov.pocket-avenue.com
   memory: 512mb
